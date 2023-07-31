@@ -54,5 +54,3 @@ Disallow: /about/
 Disallow: /live2dw/
 
 Sitemap: https://blog.junmoyu.com/sitemap.xml
-Sitemap: https://blog.junmoyu.com/page-sitemap.xml
-Sitemap: https://blog.junmoyu.com/post-sitemap.xml
