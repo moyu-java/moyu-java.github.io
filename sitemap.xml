@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://blog.junmoyu.com/about/index.html</loc>
+    
+    <lastmod>2023-07-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.junmoyu.com/tags/index.html</loc>
+    
+    <lastmod>2023-07-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.junmoyu.com/categories/index.html</loc>
+    
+    <lastmod>2023-07-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.junmoyu.com/posts/spring-boot-log4j2-config/</loc>
+    
+    <lastmod>2023-07-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.junmoyu.com/posts/spring-boot-file-upload-download/</loc>
+    
+    <lastmod>2023-07-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.junmoyu.com/posts/spring-boot-singleton-ioc/</loc>
+    
+    <lastmod>2023-07-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.junmoyu.com/posts/spring-cloud-nacos-config/</loc>
+    
+    <lastmod>2023-07-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.junmoyu.com/posts/spring-cloud-nacos-install/</loc>
+    
+    <lastmod>2023-07-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.junmoyu.com/posts/spring-cloud-nacos-discovery/</loc>
+    
+    <lastmod>2023-07-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.junmoyu.com/posts/java-design-patterns-singleton/</loc>
+    
+    <lastmod>2023-07-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.junmoyu.com/posts/java-equals-fully-resolved/</loc>
+    
+    <lastmod>2023-07-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.junmoyu.com/posts/linux-nginx-install-stream/</loc>
+    
+    <lastmod>2023-07-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.junmoyu.com/posts/java-design-patterns-template-method/</loc>
+    
+    <lastmod>2023-07-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.junmoyu.com/posts/java-design-patterns/</loc>
+    
+    <lastmod>2023-07-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.junmoyu.com/posts/docker-install/</loc>
+    
+    <lastmod>2023-07-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>https://blog.junmoyu.com/</loc>
+    <lastmod>2023-07-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+
+  
+</urlset>
